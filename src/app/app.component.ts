@@ -8,7 +8,7 @@ import {UserService} from "ngx-fusio-sdk";
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fusio';
+  title = 'LZRD';
 
   user?: User;
   menu = [{
